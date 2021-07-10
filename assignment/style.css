@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: yellowgreen;
+}
+.main{
+    display: inline-flex;
+    margin-left: 465px;
+    padding-top: 40px;
+
+
+}
+.box{
+    padding-top: 15px;
+    border-color: #000;
+    
+
+}
+.button{
+    margin: 15px;
+    border-color: #000;
+}
